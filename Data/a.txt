@@ -1,1 +1,1 @@
-Download Data then put them in this folder
+Download DATA at link in README.md then extract and put in this folder
